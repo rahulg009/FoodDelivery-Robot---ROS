@@ -10,7 +10,7 @@ git clone https://github.com/rahulg009/FoodDelivery-Robot---ROS.git
 Build the ROS packages
 
 ```bash
-cd Two_Wheeled_Robot_ROS_Tutorial
+cd FoodDelivery-Robot---ROS.git
 catkin build
 source ./devel/setup.bash
 ```
